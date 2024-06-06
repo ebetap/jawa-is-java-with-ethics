@@ -1,6 +1,7 @@
 ### Konsep Pemrograman Java
 
 Jawa is Java with Ethics
+
 Java is secure for programming
 
 1. **Objek dan Kelas**:
